@@ -845,6 +845,25 @@
     			"url": "https://win11.blueedge.me",
     			"gallery": [
       				"https://news.microsoft.com/wp-content/uploads/prod/sites/454/2021/10/Hero-Bloom-Logo-800x533-1.jpg"
+				
+				{
+  "name": "Neo",
+  "icon": "https://res.cloudinary.com/dwagy01px/image/upload/v1679518728/450A1DD6-52F2-4B52-9FA0-5C77D867869B_didabl.png",
+  "type": "app",
+  "data": {
+    "type": "IFrame",
+    "url": "https://yandex.ru/games/app/197304",
+    "gallery": [
+   
+      "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
+      "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
+      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+    ],
+    "desc": "Basket is a sandbox basketball video game ...",
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.",
+    "invert": true 
+  
+}
     	],
     	"desc": "Virtual Machine...",
     	"feat": "Inception",
